@@ -1,0 +1,16 @@
+# Executables
+
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Test binaries
+
+*.tst
